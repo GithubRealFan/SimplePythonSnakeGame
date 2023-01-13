@@ -6,3 +6,4 @@ This is simple snake game using python.
 You can control snake press the key up : W, down : S, left : A, right F.
 The game records the highest score and display the current score.
 The game will be over, if the snake crashes with the wall or it's trail.
+This project prooves that it's very easy to develop game using python.
